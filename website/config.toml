@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Goji"
 theme = "project"
+publishDir = "../docs"
 
 [params]
     description = "Create, generate, and share any code with anyone."
