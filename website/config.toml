@@ -1,4 +1,4 @@
-baseURL = "https://danielmangum.com/goji"
+baseURL = "https://danielmangum.com/goji/"
 languageCode = "en-us"
 title = "Goji"
 theme = "project"
