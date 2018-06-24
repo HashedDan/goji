@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://danielmangum.com/goji"
 languageCode = "en-us"
 title = "Goji"
-theme = "project"
-publishDir = "../docs"
+theme = "../docs"
+
 
 [params]
     description = "Create, generate, and share any code with anyone."
