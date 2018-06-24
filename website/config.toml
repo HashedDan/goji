@@ -1,7 +1,8 @@
-baseURL = "https://danielmangum.com/goji"
+baseURL = "https://danielmangum.com/goji/"
 languageCode = "en-us"
 title = "Goji"
-theme = "../docs"
+theme = "project"
+publishDir = "../docs"
 
 
 [params]
